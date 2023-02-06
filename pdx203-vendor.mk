@@ -917,17 +917,17 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx203/proprietary/vendor/lib64/libiu456_datapath_processor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libiu456_datapath_processor.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libmmcamera_faceproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_faceproc.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libmmcamera_faceproc2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_faceproc2.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libmmrtpdecoder_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/libmmrtpdecoder_proprietary.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libmmrtpencoder_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/libmmrtpencoder_proprietary.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libmmrtpdecoder_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/ib64/libmmrtpdecoder_proprietary.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libmmrtpencoder_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/ib64/libmmrtpencoder_proprietary.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libofflinelog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libofflinelog.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libos.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_base.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_base.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_basecodec.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_basecodec.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_core.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_core.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_platform.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_platform.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_utils.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_utils.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_v4l2codec.so:$(TARGET_COPY_OUT_VENDOR)/libqcodec2_v4l2codec.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_base.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_base.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_basecodec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_basecodec.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_core.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_platform.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_utils.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libqcodec2_v4l2codec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcodec2_v4l2codec.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsnpe_dsp_domains_v2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnpe_dsp_domains_v2.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsomc_alfortlpserv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_alfortlpserv.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsomc_angelpie.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsomc_angelpie.so \
@@ -979,8 +979,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsony_fooddetect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_fooddetect.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsony_naruto.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_naruto.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsony_stab.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsony_stab.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libstagefright_hdcp.so:$(TARGET_COPY_OUT_VENDOR)/libstagefright_hdcp.so \
-    vendor/sony/pdx203/proprietary/vendor/lib64/libstagefright_soft_qtiflacdec.so:$(TARGET_COPY_OUT_VENDOR)/libstagefright_soft_qtiflacdec.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libstagefright_hdcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_hdcp.so \
+    vendor/sony/pdx203/proprietary/vendor/lib64/libstagefright_soft_qtiflacdec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefright_soft_qtiflacdec.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsymphony-cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsymphony-cpu.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libsynx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsynx.so \
     vendor/sony/pdx203/proprietary/vendor/lib64/libthreadutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthreadutils.so \
